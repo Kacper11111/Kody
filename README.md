@@ -1,2 +1,1 @@
-# Barabasz
-Coś się kończy, coś zaczyna...
+
